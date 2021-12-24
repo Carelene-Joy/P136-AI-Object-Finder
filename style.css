@@ -1,0 +1,11 @@
+body {
+    background-size: 36cm;
+    
+}
+
+canvas {
+    border: black 5px groove;
+    box-shadow: 1px 1px  40px red;
+}
+
+
